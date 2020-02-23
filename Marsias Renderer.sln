@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Marsias Renderer", "Marsias Renderer\Marsias Renderer.vcxproj", "{B44126B5-6F54-4B3B-9601-8A1169DB75E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44126B5-6F54-4B3B-9601-8A1169DB75E1}.Debug|x64.ActiveCfg = Debug|x64
+		{B44126B5-6F54-4B3B-9601-8A1169DB75E1}.Debug|x64.Build.0 = Debug|x64
+		{B44126B5-6F54-4B3B-9601-8A1169DB75E1}.Release|x64.ActiveCfg = Release|x64
+		{B44126B5-6F54-4B3B-9601-8A1169DB75E1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC22AD06-F4B9-4932-89DB-CC15A5541588}
+	EndGlobalSection
+EndGlobal
